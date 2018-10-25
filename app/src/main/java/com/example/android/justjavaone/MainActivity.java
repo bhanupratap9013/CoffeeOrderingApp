@@ -1,5 +1,5 @@
 /**
- * IMPORTANT: Make sure you are using the correct package name.
+ * IMPORTANT: Make sure you are using the correct package name in the java file.
  * This example uses the package name:
  * package com.example.android.justjava
  * If you get an error when copying this code into Android studio, update it to match teh package name found
